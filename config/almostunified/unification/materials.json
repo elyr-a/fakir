@@ -1,0 +1,50 @@
+{
+  "mod_priorities": [
+    "minecraft",
+    "kubejs",
+    "create",
+    "modern_industrialization"
+  ],
+  "priority_overrides": {},
+  "stone_variants": [
+    "stone",
+    "andesite",
+    "deepslate",
+    "diorite",
+    "granite",
+    "nether"
+  ],
+  "tags": [
+    "c:dusts/{material}",
+    "c:gears/{material}",
+    "c:gems/{material}",
+    "c:ingots/{material}",
+    "c:nuggets/{material}",
+    "c:ores/{material}",
+    "c:plates/{material}",
+    "c:raw_materials/{material}",
+    "c:rods/{material}",
+    "c:storage_blocks/raw_{material}",
+    "c:storage_blocks/{material}",
+    "c:wires/{material}",
+    "c:tiny_dusts/{material}",
+    "c:crops/{material}",
+    "c:seeds/{material}",
+    "c:foods/raw_bacon",
+    "c:foods/cooked_bacon"
+  ],
+  "ignored_tags": [],
+  "ignored_items": [
+    "industrialforegoing:gold_gear",
+    "industrialforegoing:iron_gear",
+    "industrialforegoing:diamond_gear",
+    "farmersdelight:cabbage"
+  ],
+  "ignored_recipe_types": [
+    "cucumber:shaped_tag"
+  ],
+  "ignored_recipe_ids": [],
+  "recipe_viewer_hiding": true,
+  "loot_unification": true,
+  "ignored_loot_tables": []
+}

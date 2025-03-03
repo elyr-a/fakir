@@ -1,0 +1,38 @@
+{
+  "name": {
+    "text": "Primal Resource Generator"
+  },
+  "appearance": {
+    "custommachinery:block": "minecraft:powder_snow_cauldron"
+  },
+  "gui": [
+    {
+      "type": "custommachinery:background",
+      "width": 256,
+      "height": 192
+    },
+    {
+      "type": "custommachinery:progress",
+      "x": 107,
+      "y": 63
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "input",
+      "x": 81,
+      "y": 62,
+      "width": 19
+    },
+    {
+      "type": "custommachinery:slot",
+      "id": "output",
+      "x": 142,
+      "y": 62
+    },
+    {
+      "type": "custommachinery:player_inventory",
+      "x": 47,
+      "y": 116
+    }
+  ]
+}

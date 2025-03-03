@@ -1,0 +1,2 @@
+c | gamemode creative
+s | gamemode survival

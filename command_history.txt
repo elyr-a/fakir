@@ -1,0 +1,42 @@
+/addAlias c -> gamemode creative
+/addAlias c -> gamemode_creative
+/addAlias c -> gamemode_survival
+/reload
+/s
+/c
+/addAlias s -> gamemode survival
+/addAlias s -> "gamemode surviva"
+/addAlias s -> "gamemode survival"
+/addAlias c -> "gamemode creative"
+/reload
+/s
+/c
+/gamerule doDaylightCycle false
+/time set day
+/s
+/reload
+/c
+/s
+/c
+/s
+/custommachinery create
+/c
+/custommachinery edit
+/custommachinery create
+/reload
+/s
+/reload
+/c
+/reload
+/s
+/reload
+/c
+/s
+/c
+/s
+/reload
+/c
+/s
+/c
+/s
+/reload

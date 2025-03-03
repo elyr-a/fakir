@@ -1,0 +1,9 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"exdeorum:string_mesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exdeorum:flint_mesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exdeorum:iron_mesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exdeorum:golden_mesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exdeorum:diamond_mesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exdeorum:netherite_mesh"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
