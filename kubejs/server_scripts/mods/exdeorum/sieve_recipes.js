@@ -40,5 +40,23 @@ ServerEvents.recipes(event => {
   sieve("minecraft:gravel", "exdeorum:diamond_mesh", "modern_industrialization:quartz_tiny_dust", 4.0, 0.25)
   sieve("minecraft:gravel", "exdeorum:diamond_mesh", "modern_industrialization:nickel_tiny_dust", 4.0, 0.35)
   sieve("minecraft:gravel", "exdeorum:diamond_mesh", "modern_industrialization:bauxite_tiny_dust", 4.0, 0.35)
+  // dirt string mesh
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "minecraft:spruce_sapling", 1.0, 0.2)
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "minecraft:birch_sapling", 1.0, 0.2)
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "minecraft:cherry_sapling", 1.0, 0.2)
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "minecraft:dark_oak_sapling", 1.0, 0.2)
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "minecraft:jungle_sapling", 1.0, 0.2)
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "minecraft:acacia_sapling", 1.0, 0.2)
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "minecraft:wheat_seeds", 1.0, 0.2)
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "minecraft:pumpkin_seeds", 1.0, 0.2)
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "minecraft:melon_seeds", 1.0, 0.2)
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "minecraft:beetroot_seeds", 1.0, 0.2)
+  sieve("minecraft:dirt", "exdeorum:string_mesh", "exdeorum:grass_seeds", 1.0, 0.1)
+  // test
+  sieve("modern_industrialization:fire_clay_bricks", "exdeorum:iron_mesh", "minecraft:cow_spawn_egg", 1.0, 0.1)
+  sieve("modern_industrialization:fire_clay_bricks", "exdeorum:iron_mesh", "minecraft:sheep_spawn_egg", 1.0, 0.1)
+  sieve("modern_industrialization:fire_clay_bricks", "exdeorum:iron_mesh", "minecraft:chicken_spawn_egg", 1.0, 0.1)
+  sieve("modern_industrialization:fire_clay_bricks", "exdeorum:iron_mesh", "minecraft:pig_spawn_egg", 1.0, 0.1)
+  sieve("modern_industrialization:fire_clay_bricks", "exdeorum:iron_mesh", "minecraft:rabbit_spawn_egg", 1.0, 0.1)
 })
 

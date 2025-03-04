@@ -10,6 +10,15 @@ ServerEvents.recipes(event => {
             eu: 8,
             duration: 100,
             id:  `${id_prefix}/fakir_clay_block_maceration`
+        },
+        {
+            item_inputs: [
+                {item: "minecraft:sand", amount: 1}
+            ],
+            item_outputs: {item: "exdeorum:dust", amount: 1},
+            eu: 2,
+            duration: 100,
+            id: `${id_prefix}/sand_to_dust`
         }
     ];
 

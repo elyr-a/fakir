@@ -1,4 +1,4 @@
-BlockEvents.rightClicked("minecraft:grass_block", event => {
+BlockEvents.rightClicked("minecraft:dirt", event => {
     if(event.player.crouching){
         event.player.give("exdeorum:stone_pebble")
     }
